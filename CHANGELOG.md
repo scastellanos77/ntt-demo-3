@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/scastellanos77/ntt-demo-3/compare/v1.0.0...v1.1.0) (2022-10-14)
+
+
+### Bug Fixes
+
+* fix timeout when creating environments ([eeda12c](https://github.com/scastellanos77/ntt-demo-3/commit/eeda12c70d5be177cf2cd40cfecfd3016b4beddc))
+
+
+### Features
+
+* **resource:** add new argument to environment resource 2 ([25fdfff](https://github.com/scastellanos77/ntt-demo-3/commit/25fdfff3245e4c3bcc107aeab54026e4ffbda11e))
+
 # 1.0.0 (2022-10-14)
 
 
