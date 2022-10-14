@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# 1.0.0 (2022-10-14)
+
+
+### Bug Fixes
+
+* fix bug in semantic release ([73089be](https://github.com/scastellanos77/ntt-demo-3/commit/73089be2738f702598d8745d950e8c976a46c492))
+
+
+### Features
+
+* add a test file ([9d00a29](https://github.com/scastellanos77/ntt-demo-3/commit/9d00a29ff0cbd8bbe05db5f5ff3335b14865faf6))
+
 # [3.1.0](https://github.com/scastellanos77/ntt-demo-2/compare/v3.0.0...v3.1.0) (2022-10-13)
 
 
