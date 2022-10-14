@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [2.0.0](https://github.com/scastellanos77/ntt-demo-3/compare/v1.1.1...v2.0.0) (2022-10-14)
+
+
+### Code Refactoring
+
+* **resource:** rename useguidedfailure argument on environment resource ([b337da7](https://github.com/scastellanos77/ntt-demo-3/commit/b337da7ef7e0eae5db6c18d2f951fe48c8497acd))
+
+
+### BREAKING CHANGES
+
+* **resource:** The useguidedfailure argument has been renamed use_guided_failure in the octopusdeploy_environment
+
 ## [1.1.1](https://github.com/scastellanos77/ntt-demo-3/compare/v1.1.0...v1.1.1) (2022-10-14)
 
 
